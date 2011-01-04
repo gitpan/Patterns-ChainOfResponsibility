@@ -1,7 +1,7 @@
 package Patterns::ChainOfResponsibility;
  
-use 5.008008;
-our $VERSION = '0.01';
+use 5.008005;
+our $VERSION = '0.02';
  
 =head1 NAME
  
@@ -20,7 +20,7 @@ http://en.wikipedia.org/wiki/Chain-of-responsibility_pattern
  
 =head1 AUTHOR
 
-John Napiorkowski C<< <jnapiork@cpan.org> >> 
+John Napiorkowski C<< <jjnapiork@cpan.org> >> 
  
 =head1 LICENSE & COPYRIGHT
  
